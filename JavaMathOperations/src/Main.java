@@ -9,7 +9,7 @@ public class Main {
         return a+b;
     }
 
-    //zhassurbek
+
     public static int substraction(int a, int b)
     {
         return a - b;
