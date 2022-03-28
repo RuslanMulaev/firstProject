@@ -11,7 +11,6 @@ public class Main {
         int a = 5;
         int b = 4;
         sum(a, b);
-	    modulo(a,b);
 //        System.out.println(a+b);
         System.out.println(a*b);
     }
