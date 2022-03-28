@@ -9,6 +9,12 @@ public class Main {
         return a+b;
     }
 
+    //zhassurbek
+    public static int substraction(int a, int b)
+    {
+        return a - b;
+    }
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("a: ");
@@ -18,5 +24,8 @@ public class Main {
         sum(a, b);
 //        System.out.println(a+b);
         System.out.println(a*b);
+
+        // -
+        System.out.println(a-b);
     }
 }
