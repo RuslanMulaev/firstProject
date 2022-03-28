@@ -24,6 +24,7 @@ public class Main {
         sum(a, b);
 //        System.out.println(a+b);
         System.out.println(a*b);
+        /////Alnur
 
         // -
         System.out.println(a-b);
