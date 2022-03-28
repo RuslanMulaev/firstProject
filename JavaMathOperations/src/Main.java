@@ -9,15 +9,10 @@ public class Main {
         return a+b;
     }
 
-    //eldar update
-    public static int substraction(int a, int b) {
-        return a - b;
-    }
-
-
-    public  static int del (int a, int b)
+    //zhassurbek
+    public static int substraction(int a, int b)
     {
-        return a/b;
+        return a - b;
     }
 
     public static void main(String[] args) {
