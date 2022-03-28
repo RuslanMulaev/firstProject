@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+// Eldar, код выдает ошибку, у тебя работает корректно?
+// java: error: invalid source release: 17
+//вот такую ошибку выдает
+
+
 public class Main {
     public static int modulo(int a, int b) {
         return a % b;
