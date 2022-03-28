@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
+    //eldartoleubay
     public static int modulo(int a, int b){
 	return a%b;
     }
@@ -24,6 +25,7 @@ public class Main {
         sum(a, b);
 //        System.out.println(a+b);
         System.out.println(a*b);
+        /////Alnur
 
         // -
         System.out.println(a-b);
