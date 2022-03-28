@@ -1,4 +1,7 @@
 public class Main {
+    public static int(int a, int b){
+	return a*b;
+    }
 
     public static void main(String[] args) {
         int a = 5;
