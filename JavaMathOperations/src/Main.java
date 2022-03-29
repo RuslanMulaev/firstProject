@@ -55,15 +55,18 @@ public class Main {
         System.out.println("a % b = " + modulo(a, b));
         System.out.println("a ^ b = " + pow(a, b));
 
+        System.out.println("namename22");
         System.out.println("Hello");
+
 
         for (int i = 0; i < 1; i++) {
             for (int j = 0; j < 5; j++) {
                 for (int k = 0; k < 32; k++) {
-
+                    System.out.println(i);
                 }
             }
         }
+
     }
 }
 
