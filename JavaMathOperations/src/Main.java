@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 
+// Just code
+
 public class Main {
     //метод деление по модулью
     public static int modulo(int a, int b) {
