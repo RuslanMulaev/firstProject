@@ -3,5 +3,10 @@ public class Gluu {
         System.out.println(2+2+2);
 
 
+        System.out.println("Hello everybody");
+
+        System.out.println("hello");
+        System.out.println("Eldar");
+        System.out.println("salkfd");
     }
 }
