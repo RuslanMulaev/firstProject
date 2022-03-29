@@ -54,3 +54,4 @@ public class Main {
 }
 
 // Life style
+// 2
