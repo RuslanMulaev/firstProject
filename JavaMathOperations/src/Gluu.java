@@ -14,8 +14,10 @@ public class Gluu {
         System.out.println("Eldar");
 
         System.out.println("ufyguygu");
+
         for (int i = 0; i < 2343; i++) {
             for (int j = 0; j < i; j++) {
+                System.out.println("Dsadsa");
                 System.out.println(i);
             }
         }
