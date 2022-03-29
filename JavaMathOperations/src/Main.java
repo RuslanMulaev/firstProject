@@ -54,6 +54,8 @@ public class Main {
         System.out.println("a * b = " + multiply(a, b));
         System.out.println("a % b = " + modulo(a, b));
         System.out.println("a ^ b = " + pow(a, b));
+
+        System.out.println("namename");
     }
 }
 
