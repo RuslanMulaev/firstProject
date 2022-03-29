@@ -56,6 +56,15 @@ public class Main {
         System.out.println("a ^ b = " + pow(a, b));
 
         System.out.println("namename22");
+        System.out.println("Hello");
+
+
+        for (int i = 0; i < 1; i++) {
+            for (int j = 0; j < 5; j++) {
+
+            }
+        }
+>>>>>>> 8eedfd46bd9f8d20a5ac978fba2fd6e68bdfbd02
     }
 }
 
