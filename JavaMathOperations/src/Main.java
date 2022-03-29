@@ -52,3 +52,5 @@ public class Main {
         System.out.println("a ^ b = " + pow(a, b));
     }
 }
+
+// Life style
