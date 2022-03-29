@@ -4,10 +4,10 @@ import java.util.Scanner;
 // Just code
 
 public class Main {
-<<<<<<< HEAD
+
     public static int modulo(int a, int b) {
         return a % b;
-=======
+
     //метод деление по модулью
     public static int modulo(int a, int b) {
         return a % b;
@@ -26,7 +26,7 @@ public class Main {
     //метод умножения двух чисел
     public static int multiply(int a, int b) {
         return a * b;
->>>>>>> 2fba8fd5ab0d330535837c395ca2cc59b3f33265
+
     }
 
     //метод степени аналог (Math.pow)
@@ -40,13 +40,13 @@ public class Main {
 
 
     public static void main(String[] args) {
-<<<<<<< HEAD
+
         int a = 5;
         int b = 4;
         modulo(a, b);
         System.out.println(a + b);
         System.out.println(a * b);
-=======
+
         //создаем новый сканнер
         Scanner in = new Scanner(System.in);
         //переменные которые хранят числа для вычисление
@@ -80,7 +80,6 @@ public class Main {
             }
         }
 
->>>>>>> 2fba8fd5ab0d330535837c395ca2cc59b3f33265
     }
 }
 
