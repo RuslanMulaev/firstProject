@@ -42,6 +42,7 @@ public class Main {
         int b = in.nextInt();
         System.out.print("c: ");
         int c = in.nextInt();
+        /////////NewNew
 
         //вызов методов
         System.out.println("a + b = " + sum(a, b));
