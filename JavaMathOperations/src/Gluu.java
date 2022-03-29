@@ -9,5 +9,6 @@ public class Gluu {
 =======
         System.out.println("Eldar");
 >>>>>>> 8bdc3c6beac159285e04275721056065a81c6efe
+            \asdf
     }
 }
